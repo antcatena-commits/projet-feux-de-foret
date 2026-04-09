@@ -8,8 +8,9 @@ Projet Data complet utilisant **Python (Google Colab)** et **Power BI** pour ana
 
 ### Prétraitement des données
 *(exemple : nettoyage, sélection des colonnes, gestion des valeurs manquantes)*  
-![Prétraitement]([images/colab_preprocessing.png](https://github.com/antcatena-commits/projet-feux-de-foret/blob/main/Preprocessing%20doublons.png))
-![Prétraitement]()
+![Prétraitement](images/Preprocessing doublons.png)
+![Prétraitement](images/Preprocessing suppression des colonnes inutiles.png)
+
 
 ### Visualisation des tendances
 *(exemple : histogrammes, heatmaps, évolution temporelle)*  
