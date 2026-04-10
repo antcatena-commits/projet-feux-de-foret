@@ -8,7 +8,7 @@ Projet Data complet utilisant **Python (Google Colab)** et **Power BI** pour ana
 
 ### Prétraitement des données
 *(exemple : nettoyage, sélection des colonnes, gestion des valeurs manquantes)*  
-![Prétraitement]()
+![Prétraitement](images/Preprocessing_doublons.png)
 ![Prétraitement]()
 
 
