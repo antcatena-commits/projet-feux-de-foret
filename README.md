@@ -7,8 +7,17 @@ Projet Data complet utilisant **Python (Google Colab)** et **Power BI** pour ana
 ## 📊 1. Analyse & Visualisations (Google Colab)
 
 ### Prétraitement des données
-*(exemple : nettoyage, sélection des colonnes, gestion des valeurs manquantes)*  
+*Avant l’analyse, j’ai évalué la qualité du dataset.  
+Le calcul des doublons par colonne montre que certaines variables contiennent plus de 1,8 million de valeurs répétées, ce qui indique :
+
+- des colonnes peu informatives  
+- des identifiants redondants  
+- des champs administratifs inutiles pour l’analyse  
+
+Cela m’a permis de sélectionner uniquement les colonnes pertinentes pour la suite du projet. *  
 ![Prétraitement](images/Preprocessing_doublons.png)
+
+
 ![Prétraitement](images/Preprocessing_Suppression_Colonnes.png)
 
 
