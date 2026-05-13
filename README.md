@@ -15,7 +15,7 @@ Projet Data complet utilisant **Python (Google Colab)** et **Power BI** pour ana
 
 ### Prétraitement des données
 
-Avant l’analyse, j’ai évalué la qualité du dataset.  
+🔧Avant l’analyse, j’ai évalué la qualité du dataset.  
 Le calcul des doublons par colonne montre que certaines variables contiennent plus de 1,8 million de valeurs répétées, ce qui indique :
 
 - des colonnes peu informatives  
@@ -26,16 +26,16 @@ Cela m’a permis de sélectionner uniquement les colonnes pertinentes pour la s
 
 ![Prétraitement](images/Preprocessing_doublons.png)
 
-Amélioration de la qualité du dataset en supprimant les colonnes qui n'apportent pas de valeurs mais et au contraire de la confusion. Cet étape permet d'harmoniser et de facilité le travail pour le chargement du dataset dans PowerBI en réduisant le nombre d'ID.
+🔧Amélioration de la qualité du dataset en supprimant les colonnes qui n'apportent pas de valeurs mais et au contraire de la confusion. Cet étape permet d'harmoniser et de facilité le travail pour le chargement du dataset dans PowerBI en réduisant le nombre d'ID.
 
 ![Prétraitement](images/Preprocessing_suppression_Colonnes_inutiles.png)
 
-Nettoyage et standardisation des types de données.
+🔧Nettoyage et standardisation des types de données.
 
 Conversion de DISCOVERY_TIME (ex: 1345 → 13:45) :
 - conversion en string
 - remplissage des zéros (zfill)
-- transformation en format horaire avec `pd.to_datetime`
+- transformation en format horaire avec pd.to_datetime
 - extraction de .dt.time
 
 ![Visualisations](images/Preprocessing_Changement_types_info.png)
