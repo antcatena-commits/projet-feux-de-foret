@@ -61,7 +61,7 @@ Dans ce cas précis le diagramme circulaire nous donne un bref apérçu des caus
 
 ### Vue du schéma en étoile
 
-![Dashboard Power BI](images/powerbi_dashboard.png)
+![Dashboard Power BI](images/PowerBI_Modèle_Etoile.png)
 
 ### Vue générale du dashboard
 ![Dashboard Power BI](images/powerbi_dashboard.png)
