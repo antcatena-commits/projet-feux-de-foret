@@ -19,7 +19,7 @@ Cela m’a permis de sélectionner uniquement les colonnes pertinentes pour la s
 ![Prétraitement](images/Preprocessing_doublons.png)
 
 
-![Prétraitement](images/Preprocessing_suppression_Colonnes_inutiles.png).png)
+![Prétraitement](images/Preprocessing_suppression_Colonnes_inutiles.png)
 
 
 ### Visualisation des tendances
