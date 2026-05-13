@@ -14,11 +14,12 @@ Le calcul des doublons par colonne montre que certaines variables contiennent pl
 - des identifiants redondants  
 - des champs administratifs inutiles pour l’analyse  
 
-Cela m’a permis de sélectionner uniquement les colonnes pertinentes pour la suite du projet. 
+Cela m’a permis de sélectionner uniquement les colonnes pertinentes pour la suite du projet.
+
 ![Prétraitement](images/Preprocessing_doublons.png)
 
 
-![Prétraitement](images/Preprocessing_Suppression_Colonnes.png)
+![Prétraitement](images/Preprocessing_suppression_Colonnes_inutiles.png).png)
 
 
 ### Visualisation des tendances
