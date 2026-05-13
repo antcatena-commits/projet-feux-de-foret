@@ -1,6 +1,14 @@
 # 🔥 Analyse des Feux de Forêt aux États-Unis (1992–2015)
 
 Projet Data complet utilisant **Python (Google Colab)** et **Power BI** pour analyser les feux de forêt aux USA entre 1992 et 2015.
+---
+
+## 🎯 Objectifs du projet
+
+- Identifier les zones les plus touchées  
+- Analyser les causes principales  
+- Étudier l’évolution temporelle  
+- Construire un dashboard interactif  
 
 ---
 
@@ -36,14 +44,6 @@ Cela m’a permis de sélectionner uniquement les colonnes pertinentes pour la s
 ### KPIs & insights
 ![KPIs](images/powerbi_kpis.png)
 
----
-
-## 🎯 Objectifs du projet
-
-- Identifier les zones les plus touchées  
-- Analyser les causes principales  
-- Étudier l’évolution temporelle  
-- Construire un dashboard interactif  
 
 ---
 
