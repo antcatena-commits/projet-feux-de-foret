@@ -30,6 +30,16 @@ Amélioration de la qualité du dataset en supprimant les colonnes qui n'apporte
 
 ![Prétraitement](images/Preprocessing_suppression_Colonnes_inutiles.png)
 
+Nettoyage et standardisation des types de données.
+
+Conversion de DISCOVERY_TIME (ex: 1345 → 13:45) :
+- conversion en string
+- remplissage des zéros (zfill)
+- transformation en format horaire avec `pd.to_datetime`
+- extraction de .dt.time
+
+![Visualisations](images/Preprocessing_Changement_types_info.png)
+
 
 ### Visualisation des tendances
 
@@ -42,7 +52,7 @@ Dans ce cas précis le diagramme circulaire nous donne un bref apérçu des caus
 
 
 
-![Visualisations](images/Preprocessing_Changement_types_info.png)
+
 
 ---
 
