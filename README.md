@@ -32,7 +32,8 @@ Amélioration de la qualité du dataset en supprimant les colonnes qui n'apporte
 
 ### Visualisation des tendances
 
-Après avoir apporter toutes les modifications, nettoyé les données, cela a permis d'effectuer des premiers essais de graphiques qui dans ce cas précis nous montre les causes principales des feux de forêt.
+Après avoir apporter toutes les modifications, nettoyé les données, cela a permis d'effectuer des premiers essais de graphiques avec les bibliothèques de graphiques Matplotlib et Seaborn.
+Dans ce cas précis le diagramme circulaire nous donne un bref apérçu des causes provoquant des feux de forêt.
 
 ![Visualisations](images/Visualisations_Matplotlib_Pie_Python.png)
 
