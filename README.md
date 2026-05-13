@@ -34,7 +34,7 @@ Amélioration de la qualité du dataset en supprimant les colonnes qui n'apporte
 
 Après avoir apporter toutes les modifications, nettoyé les données, cela a permis d'effectuer des premiers essais de graphiques qui dans ce cas précis nous montre les causes principales des feux de forêt.
 
-![Visualisations](Visualisations_Matplotlib_Pie_Python.png)
+![Visualisations](images/Visualisations_Matplotlib_Pie_Python.png)
 
 ![Visualisations](Visualisations_Matplotlib_Pie_Python.png)
 
