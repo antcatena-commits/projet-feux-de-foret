@@ -70,8 +70,10 @@ Ce modèle a été choisi pour optimiser la performance des requêtes et égalem
 ![Dashboard Power BI](images/powerbi_dashboard.png)
 
 ### KPIs & insights
+
 ![KPIs](images/powerbi_kpis.png)
 
+![KPIs](images/powerbi_kpis.png)
 
 ---
 
