@@ -8,9 +8,8 @@ Projet Data complet utilisant **Python (Google Colab)** et **Power BI** pour ana
 - Identifier les zones les plus touchées  
 - Analyser les causes principales  
 - Étudier l’évolution temporelle  
-- Construire un dashboard interactif  
-
----
+- Construire un dashboard interactif
+- Apporter des préconisations afin de faire de la prévention dans les zones le splus touchées
 
 ## 📊 1. Analyse & Visualisations (Google Colab)
 
