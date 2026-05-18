@@ -86,7 +86,7 @@ L’analyse temporelle révèle également des pics saisonniers importants duran
 
 Top 3 Causes d'incendie (DAX)
 
-![KPIs](images/powerbi_kpis.png)
+![KPIs](images/Mesure_dax_top3_causes.png)
 
 ![KPIs](images/powerbi_kpis.png)
 
