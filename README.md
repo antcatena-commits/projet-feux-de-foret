@@ -75,7 +75,7 @@ Ce modèle a été choisi pour optimiser la performance des requêtes et égalem
 ![Dashboard Power BI](images/PowerBI_Modèle_Etoile.png)
 
 ### Vue générale du dashboard
-![Dashboard Power BI](images/powerbi_dashboard.png)
+![Dashboard Power BI](images/Dashboard_powerbi.png)
 
 ### KPIs & insights
 
