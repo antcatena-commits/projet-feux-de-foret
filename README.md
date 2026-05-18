@@ -43,6 +43,8 @@ Conversion de DISCOVERY_TIME (ex: 1345 → 13:45) :
 
 ### Visualisation des tendances
 
+Diagramme circulaire
+
 Après avoir apporter toutes les modifications, nettoyé les données, cela a permis d'effectuer des premiers essais de graphiques avec les bibliothèques de graphiques Matplotlib et Seaborn.
 Dans ce cas précis le diagramme circulaire nous donne un bref apérçu des causes provoquant des feux de forêt.
 
