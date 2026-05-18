@@ -50,9 +50,11 @@ Dans ce cas précis le diagramme circulaire nous donne un bref apérçu des caus
 
 ![Visualisations](images/Visualisations_Matplotlib_pie_graphique.png)
 
-![Visualisations](images/)
+![Visualisations](images/Visualisations_BAR_Python.png)
 
+![Visualisations](images/Visualisations_BAR_Python.png)      
 
+![Visualisations](images/Visualisations_BAR_graphique.png) 
 
 ---
 
