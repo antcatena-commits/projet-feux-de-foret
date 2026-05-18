@@ -75,6 +75,11 @@ Ce modèle a été choisi pour optimiser la performance des requêtes et égalem
 ![Dashboard Power BI](images/PowerBI_Modèle_Etoile.png)
 
 ### Vue générale du dashboard
+
+Le dashboard met en évidence la forte proportion des incendies d’origine humaine par rapport aux causes naturelles.  
+Les causes les plus fréquentes sont notamment le Debris Burning et les incendies divers (Miscellaneous).  
+L’analyse temporelle révèle également des pics saisonniers importants durant les mois d’été.
+
 ![Dashboard Power BI](images/Dashboard_powerbi.png)
 
 ### KPIs & insights
