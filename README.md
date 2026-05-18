@@ -50,6 +50,10 @@ Dans ce cas précis le diagramme circulaire nous donne un bref apérçu des caus
 
 ![Visualisations](images/Visualisations_Matplotlib_pie_graphique.png)
 
+Ce graphique met en évidence l’évolution du nombre de feux de forêt aux États-Unis entre 1992 et 2015 selon les différentes régions.  
+Les régions du Southeast et du Southwest apparaissent comme les plus touchées sur l’ensemble de la période.  
+On observe également une augmentation significative du nombre d’incendies autour des années 2000–2007 avant une légère baisse sur les années suivantes.
+
 ![Visualisations](images/Visualisations_BAR_Python.png) 
 
 ![Visualisations](images/Visualisations_BAR_graphique.png) 
