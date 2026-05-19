@@ -93,6 +93,9 @@ Dans PowerBI, "CONCATENATEX" va permettre d'afficher un KPI dynamique (A contrar
   
 ![KPIs](images/Mesure_dax_top3_causes.png)
 
+
+Treemap, pourcentage des causes d'incendie (DAX)
+
 ![KPIs](images/Mesure_dax_treemap.png)
 
 ---
