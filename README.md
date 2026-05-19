@@ -89,6 +89,8 @@ Top 3 Causes d'incendie (DAX)
 Cette mesure identifie les trois causes d'incendie les plus fréquentes en utilisant "TOPN" et "SUMMARIZE".
 Dans PowerBI, "CONCATENATEX" va permettre d'afficher un KPI dynamique (A contrario, en remplacant "DESC" par "ASC" on obtiendra les causes les moins fréquentes).
 
+
+![KPIs](images/Mesure_dax_top3_causes.png)
 ![KPIs](images/Mesure_dax_top3_causes.png)
 
 ![KPIs](images/powerbi_kpis.png)
