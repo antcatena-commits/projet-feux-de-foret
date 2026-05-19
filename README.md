@@ -84,7 +84,7 @@ L’analyse temporelle révèle également des pics saisonniers importants duran
 
 ### KPIs & insights
 
-Top 3 Causes d'incendie (DAX)
+Top 3 Causes d'incendie (zoom dashboard + DAX)
 
 Cette mesure identifie les trois causes d'incendie les plus fréquentes en utilisant "TOPN" et "SUMMARIZE".
 Dans PowerBI, "CONCATENATEX" va permettre d'afficher un KPI dynamique (A contrario, en remplacant "DESC" par "ASC" on obtiendra les causes les moins fréquentes).
@@ -94,7 +94,7 @@ Dans PowerBI, "CONCATENATEX" va permettre d'afficher un KPI dynamique (A contrar
 ![KPIs](images/Mesure_dax_top3_causes.png)
 
 
-Treemap, pourcentage des causes d'incendie (DAX)
+Treemap, pourcentage des causes d'incendie (zoom dashboard + DAX)
 
 Ce treemap met en évidence la répartition des principales causes des feux de forêt aux États-Unis.  
 L’objectif est d’analyser et de comparer visuellement la proportion de chaque cause afin d’identifier les facteurs les plus fréquents.  
