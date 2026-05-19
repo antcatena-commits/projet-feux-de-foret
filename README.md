@@ -96,6 +96,10 @@ Dans PowerBI, "CONCATENATEX" va permettre d'afficher un KPI dynamique (A contrar
 
 Treemap, pourcentage des causes d'incendie (DAX)
 
+Ce treemap met en évidence la répartition des principales causes des feux de forêt aux États-Unis.  
+L’objectif est d’analyser et de comparer visuellement la proportion de chaque cause afin d’identifier les facteurs les plus fréquents.  
+Cette représentation permet d’obtenir une lecture rapide et intuitive des causes dominantes, notamment les incendies liés aux activités humaines.
+
 ![KPIs](images/Mesure_visu_treemap.png)
 
 ![KPIs](images/Mesure_dax_treemap.png)
