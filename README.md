@@ -98,7 +98,7 @@ Treemap, pourcentage des causes d'incendie (DAX)
 
 ![KPIs](images/Mesure_dax_treemap.png)
 
-![KPIs](images/.png)
+![KPIs](images/Mesure_visu_treemap.png)
 ---
 
 ## 📂 Ressources
