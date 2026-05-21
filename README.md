@@ -116,4 +116,4 @@ Cette représentation permet d’obtenir une lecture rapide et intuitive des cau
 
 ## 👨‍💻 Auteur
 
-Antonio — Data Analyst  
+Antonio CATENA — Business Analyst  
