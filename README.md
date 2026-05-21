@@ -109,8 +109,8 @@ Cette représentation permet d’obtenir une lecture rapide et intuitive des cau
 
 ## 📂 Ressources
 
-- 📘 Notebook Colab : *à ajouter*  
-- 📊 Dashboard Power BI : *à ajouter*  
+- 📘 Notebook google Colab : Sur demande
+- 📊 Dashboard Power BI : Sur demande
 
 ---
 
