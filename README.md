@@ -69,7 +69,7 @@ On observe également une augmentation significative du nombre d’incendies aut
 
 ### Vue du schéma en étoile
 
-Le modèle en étoile avec la table de faits (df_clean) et les tables de dimensions qui ont été créées permettent d'exploiter les données concernant les populations, les données métérologiques ainsi que les lieux principalement concernés etc...
+Le modèle en étoile avec la table de faits (df_clean) et les tables de dimensions qui ont été créées permettent d'exploiter les données concernant les populations, les données métérologiques ainsi que les lieux principalement concernés etc...  
 Ce modèle a été choisi pour optimiser la performance des requêtes et également faciliter l'analyse.
 
 ![Dashboard Power BI](images/PowerBI_Modèle_Etoile.png)
