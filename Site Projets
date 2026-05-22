@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Portfolio Data - GitHub Pages</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f7f7f7;
+      color: #333;
+    }
+    header {
+      background: #0d1117;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    nav a {
+      color: white;
+      margin: 0 10px;
+      text-decoration: none;
+    }
+    .container {
+      max-width: 1000px;
+      margin: auto;
+      padding: 20px;
+    }
+    .project {
+      background: white;
+      padding: 20px;
+      margin-bottom: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    .project h3 {
+      margin-top: 0;
+    }
+    .btn {
+      display: inline-block;
+      padding: 10px 15px;
+      background: #238636;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+      margin-top: 10px;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background: #0d1117;
+      color: white;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Antonio — Data Analyst</h1>
+  <p>Python • SQL • Power BI</p>
+  <nav>
+    <a href="#about">À propos</a>
+    <a href="#projets">Projets</a>
+    <a href="#skills">Compétences</a>
+    <a href="#contact">Contact</a>
+  </nav>
+</header>
+
+<div class="container">
+
+  <section id="projets">
+    <h2>Mes Projets</h2>
+
+    <div class="project">
+      <h3>Analyse des feux de forêt aux Etats-Unis</h3>
+      <p>Dans le cadre de cette étude j'ai utilisé Python (Pandas, Matplotlib, Seaborn, Numpy...) ainsi que Power BI (Dax et visualisations).</p>
+      <a class="btn" href="https://github.com/ton-username/projet-feux-de-foret" target="_blank">
+  Voir le projet complet
+</a>
+
+    </div>
+
+    <div class="project">
+      <h3>Dashboard Power BI</h3>
+      <p>Création d'un dashboard interactif pour le suivi des KPI.</p>
+      <a class="btn" href="https://github.com/ton-username/projet-dashboard" target="_blank">Voir sur GitHub</a>
+    </div>
+
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email : ant.catena@gmail.com</p>
+    <p>GitHub : https://github.com/ton-username</p>
+    <p>LinkedIn : https://linkedin.com/in/ton-profil</p>
+  </section>
+
+</div>
+
+<footer>
+  <p>© 2026 - Mon Portfolio Data</p>
+</footer>
+
+</body>
+</html>
