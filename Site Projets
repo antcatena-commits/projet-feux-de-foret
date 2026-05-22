@@ -76,9 +76,10 @@
     <div class="project">
       <h3>Analyse des feux de forêt aux Etats-Unis</h3>
       <p>Dans le cadre de cette étude j'ai utilisé Python (Pandas, Matplotlib, Seaborn, Numpy...) ainsi que Power BI (Dax et visualisations).</p>
-      <a class="btn" href="https://github.com/antcatena-commits/projet-feux-de-foret" target="_blank">
+      <a class="btn" href="https://github.com/antcatena-commits/projet-feux-de-foret/blob/main/docs/README.md" target="_blank">
   PROJET
 </a>
+
 
     </div>
 
