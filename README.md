@@ -26,7 +26,7 @@ Cela m’a permis de sélectionner uniquement les colonnes pertinentes pour la s
 
 ![Prétraitement](images/Preprocessing_doublons.png)
 
-🔧Amélioration de la qualité du dataset en supprimant les colonnes qui n'apportent pas de valeurs mais et au contraire de la confusion. Cet étape permet d'harmoniser et de facilité le travail pour le chargement du dataset dans PowerBI en réduisant le nombre d'ID.
+🔧Amélioration de la qualité du dataset en supprimant les colonnes qui n'apportent pas de valeurs mais et au contraire de la confusion. Cette étape permet d'harmoniser et de faciliter le travail pour le chargement du dataset dans PowerBI en réduisant le nombre d'ID.
 
 ![Prétraitement](images/Preprocessing_suppression_Colonnes_inutiles.png)
 
